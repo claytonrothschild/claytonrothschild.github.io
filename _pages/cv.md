@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.B.A in Accounting, Baylor University, 2013
+* B.B.A in Management Information Systems, Baylor University, 2013
 
 Work experience
 ======
@@ -29,12 +28,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Product Management and Design
+* Web software ecosystem
+  * Node, ExpressJs
+  * React, TypeScript, ES6
+  * Webpack, gulp, cron, git
+  * AWS, Azure, Digital Ocean
+* Data Ingestion and Analytics
+  * Postgres, MSSQL
+  * Complex queries: partitions, Scalar/TVF, complex JOINs
+  * SSIS, sprocs, views, all the goodies
+* People and Project Management
+  * High EQ; 1:1s; Trust-based relationships with team members
+  * Remote team management
+  * Status and Trade-off Communication
+  * Strong Diagramming and Presentation ability
 
 Publications
 ======

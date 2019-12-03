@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Manager, Technology and Strategy at Pariveda. Tech consultant interested in accessibility tech, product design, and economics."
   location         : "Houston, Texas"
-  employer         : "Pariveda Solution"
+  employer         : "Pariveda"
   pubmed           : 
   googlescholar    : 
   email            : "clayton@claytonrothschild.com"
@@ -179,13 +179,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
