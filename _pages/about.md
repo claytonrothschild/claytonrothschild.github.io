@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Entrepreneurial software engineer and technical product manager."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
